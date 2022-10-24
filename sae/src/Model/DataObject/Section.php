@@ -11,6 +11,7 @@ class Section
     private $texteReponse;
     private Question $idQ;
 
+
     /**
      * @param String $section
      * @param String $titre
